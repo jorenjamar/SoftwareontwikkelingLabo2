@@ -1,0 +1,14 @@
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\test\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\test\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\test\bin\Debug\netcoreapp3.0\test.dll
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\test\bin\Debug\netcoreapp3.0\test.pdb
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\test\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\test\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\test\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\test\obj\Debug\netcoreapp3.0\test.dll
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\test\obj\Debug\netcoreapp3.0\test.pdb
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\test\bin\Debug\netcoreapp3.0\Coderingen.dll
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\test\bin\Debug\netcoreapp3.0\Coderingen.pdb
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\test\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete

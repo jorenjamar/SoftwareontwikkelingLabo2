@@ -1,0 +1,8 @@
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\Coderingen\bin\Debug\netstandard2.0\Coderingen.deps.json
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\Coderingen\bin\Debug\netstandard2.0\Coderingen.dll
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\Coderingen\bin\Debug\netstandard2.0\Coderingen.pdb
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\Coderingen\obj\Debug\netstandard2.0\Coderingen.csprojAssemblyReference.cache
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\Coderingen\obj\Debug\netstandard2.0\Coderingen.AssemblyInfoInputs.cache
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\Coderingen\obj\Debug\netstandard2.0\Coderingen.AssemblyInfo.cs
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\Coderingen\obj\Debug\netstandard2.0\Coderingen.dll
+C:\Users\Joren\Documents\school\eerste_jaar_IIW\softwareontwikkeling2\labo2\Coderingen\Coderingen\obj\Debug\netstandard2.0\Coderingen.pdb

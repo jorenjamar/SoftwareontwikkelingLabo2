@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coderingen", "Coderingen\Coderingen.csproj", "{FEBD06C9-A50A-4F10-B9C1-08E87C10073C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{BEAE7ABD-BCD8-4DF4-9268-892C665DC0AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEBD06C9-A50A-4F10-B9C1-08E87C10073C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEBD06C9-A50A-4F10-B9C1-08E87C10073C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEBD06C9-A50A-4F10-B9C1-08E87C10073C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEBD06C9-A50A-4F10-B9C1-08E87C10073C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEAE7ABD-BCD8-4DF4-9268-892C665DC0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEAE7ABD-BCD8-4DF4-9268-892C665DC0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEAE7ABD-BCD8-4DF4-9268-892C665DC0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEAE7ABD-BCD8-4DF4-9268-892C665DC0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56C904BD-A02F-456A-81B9-51A8ADEA778E}
+	EndGlobalSection
+EndGlobal
