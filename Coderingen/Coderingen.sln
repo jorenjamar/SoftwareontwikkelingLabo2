@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coderingen", "Coderingen\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeerZin", "CodeerZin\CodeerZin.csproj", "{08E707E4-BAD8-4D94-AF8D-F1A92D721230}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeerBestand", "CodeerBestand\CodeerBestand.csproj", "{E5D6CDCF-8086-4C61-B9ED-A3B25676817B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{08E707E4-BAD8-4D94-AF8D-F1A92D721230}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08E707E4-BAD8-4D94-AF8D-F1A92D721230}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08E707E4-BAD8-4D94-AF8D-F1A92D721230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D6CDCF-8086-4C61-B9ED-A3B25676817B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D6CDCF-8086-4C61-B9ED-A3B25676817B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D6CDCF-8086-4C61-B9ED-A3B25676817B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D6CDCF-8086-4C61-B9ED-A3B25676817B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
