@@ -7,15 +7,11 @@ namespace Coderingen
     public class Wissel : ICodering
     {
         private ICodering ouder;
-        private string tekst;
         public string Tekst {
             get
             {
-                return tekst;
+                return Code();
             }
-            set { 
-                Tekst = value;  
-            } 
         }
 
         public string Code()

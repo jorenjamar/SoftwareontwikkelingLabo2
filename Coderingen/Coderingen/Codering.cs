@@ -12,9 +12,6 @@ namespace Coderingen
             {
                 return tekst;
             }
-            set { 
-                tekst = value; 
-            } 
         }
 
         public string Code()
@@ -22,8 +19,8 @@ namespace Coderingen
             return tekst;
         }
 
-        public Codering() {
-            
+        public Codering(string tekst) {
+            this.tekst = tekst;
         }
     }
 }

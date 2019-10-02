@@ -6,7 +6,7 @@ namespace Coderingen
 {
     public interface ICodering
     {
-        string Tekst { get; set; }
+        string Tekst { get; }
 
         string Code();
     }

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29318.209
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coderingen", "Coderingen\Coderingen.csproj", "{FEBD06C9-A50A-4F10-B9C1-08E87C10073C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coderingen", "Coderingen\Coderingen.csproj", "{FEBD06C9-A50A-4F10-B9C1-08E87C10073C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{BEAE7ABD-BCD8-4DF4-9268-892C665DC0AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeerZin", "CodeerZin\CodeerZin.csproj", "{08E707E4-BAD8-4D94-AF8D-F1A92D721230}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{FEBD06C9-A50A-4F10-B9C1-08E87C10073C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEBD06C9-A50A-4F10-B9C1-08E87C10073C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEBD06C9-A50A-4F10-B9C1-08E87C10073C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BEAE7ABD-BCD8-4DF4-9268-892C665DC0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BEAE7ABD-BCD8-4DF4-9268-892C665DC0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BEAE7ABD-BCD8-4DF4-9268-892C665DC0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BEAE7ABD-BCD8-4DF4-9268-892C665DC0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E707E4-BAD8-4D94-AF8D-F1A92D721230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E707E4-BAD8-4D94-AF8D-F1A92D721230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E707E4-BAD8-4D94-AF8D-F1A92D721230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E707E4-BAD8-4D94-AF8D-F1A92D721230}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

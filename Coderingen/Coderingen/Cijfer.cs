@@ -7,16 +7,11 @@ namespace Coderingen
     public class Cijfer : ICodering
     {
         private ICodering ouder;
-        private string tekst;
         public string Tekst
         {
             get
             {
-                return tekst;
-            }
-            set
-            {
-                Tekst = value;
+                return Code();
             }
         }
 
