@@ -12,6 +12,7 @@ namespace CodeerBestand
     {
         static void Main(string[] args)
         {
+            //pas directory aan naar eigen directory waar file zich in bevind
             string directory = "C:\\Users\\Joren\\Documents\\school\\eerste_jaar_IIW\\softwareontwikkeling2\\labo2\\Coderingen\\CodeerBestand\\";
             List<ICodering> coderingTypes = new List<ICodering>();
 

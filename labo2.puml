@@ -1,39 +1,45 @@
 @startuml labo2
 skinparam ClassAttributeIconSize 0
 class Codering{
-    +Codering()
+    -tekst : string
+    +Codering(tekst : string)
     +Code() : string
 }
 note left: component
 interface ICodering{
-    -Tekst : string
-    +ICodering()
     +{abstract}Code() : string
 }
 note left: interface
+
+abstract class IDecorator{
+    +IDecorator(ouder: ICodering)
+    +Code() : string
+}
+note left: abstracte decorator
+
 class Wissel{
     +Wissel(ouder : ICodering)
     +Code() : string
 }
-note bottom: decorator
+note bottom: concrete decorator
 class Cijfer{
     +Cijfer(ouder : ICodering)
     +Code() : string
 }
-note bottom: decorator
+note bottom: concrete decorator
 class Blok{
     +Blok(ouder : ICodering)
     +Code() : string
 }
-note bottom: decorator
+note bottom: concrete decorator
 
 ICodering <|.up. Codering : is een
-ICodering <|.. Wissel: is een
-ICodering <|.. Cijfer: is een
-ICodering <|.. Blok: is een
+ICodering <|.down. IDecorator : is een
+IDecorator <|.. Wissel: is een
+IDecorator <|.. Cijfer: is een
+IDecorator <|.. Blok: is een
 
-Wissel o-- ICodering: decoreert
-Cijfer o-- ICodering: decoreert
-Blok o-- ICodering: decoreert
+IDecorator o-- ICodering: decoreert
+
 
 @enduml
